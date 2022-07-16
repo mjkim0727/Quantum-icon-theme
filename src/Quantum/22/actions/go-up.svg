@@ -25,19 +25,26 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="37"
-     inkscape:cx="10.986486"
-     inkscape:cy="11"
+     inkscape:cx="11.013514"
+     inkscape:cy="11.027027"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="991"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text { color:#363636; }
+    </style>
+  </defs>
   <path
-     d="m 6.051242,9.6560005 c -1e-6,-0.12781 0.04855,-0.255585 0.146484,-0.353516 L 11.500219,4 16.804516,9.3024845 c 0.195867,0.195868 0.195867,0.511162 0,0.7070315 -0.195869,0.195868 -0.511166,0.195871 -0.707032,0 L 12.000219,5.914063 V 17.5 c 0,0.277 -0.223001,0.500001 -0.5,0.500001 -0.277,0 -0.5,-0.223001 -0.5,-0.500001 V 5.914063 l -4.095461,4.095453 c -0.195877,0.19586 -0.511163,0.195869 -0.707032,0 C 6.099796,9.9115815 6.051243,9.7838105 6.051242,9.6560005 Z"
-     style="stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 6.051242,9.656 c -1e-6,-0.12781 0.04855,-0.255585 0.146484,-0.353516 L 11.500219,4 16.804516,9.302484 c 0.195867,0.195868 0.195867,0.511162 0,0.707032 -0.195869,0.195868 -0.511166,0.195871 -0.707032,0 L 12.000219,5.914063 V 17.5 c 0,0.277 -0.223001,0.500001 -0.5,0.500001 -0.277,0 -0.5,-0.223001 -0.5,-0.500001 V 5.914063 l -4.095461,4.095453 c -0.195877,0.19586 -0.511163,0.195869 -0.707032,0 C 6.099796,9.911586 6.051243,9.78381 6.051242,9.656 Z"
+     style="fill:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
      id="path510"
      sodipodi:nodetypes="scccsccssscccs" />
 </svg>

@@ -34,15 +34,21 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <style id="current-color-scheme" type="text/css">
+      .ColorScheme-Text { color:#363636; }
+    </style>
+  </defs>
   <path
      id="rect339"
-     style="stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
      d="M 7,8 C 6.4460006,8 6,8.4460006 6,9 v 6 c 0,0.553999 0.4460006,1 1,1 h 6 c 0.553999,0 1,-0.446001 1,-1 V 9 C 14,8.4460006 13.553999,8 13,8 Z m 0,1 h 6 v 6 H 7 Z"
      sodipodi:nodetypes="sssssssssccccc" />
   <path
      id="rect1744"
-     style="stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
      d="M 9,6 C 8.4460006,6 8,6.4460006 8,7 h 7 v 7 c 0.553999,0 1,-0.446001 1,-1 V 7 C 16,6.4460006 15.553999,6 15,6 Z"
      sodipodi:nodetypes="scccssss" />
 </svg>

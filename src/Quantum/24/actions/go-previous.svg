@@ -25,19 +25,26 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="36.769553"
-     inkscape:cx="7.0302732"
-     inkscape:cy="10.361834"
+     inkscape:cx="7.0574695"
+     inkscape:cy="10.38903"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="991"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text { color:#363636; }
+    </style>
+  </defs>
   <path
      d="m 10.656,7.051 c -0.12781,0 -0.255585,0.048 -0.353516,0.1465 L 5,12.4998 l 5.302484,5.3045 c 0.195868,0.1958 0.511162,0.1958 0.707032,0 0.195867,-0.1959 0.19587,-0.5112 0,-0.7071 L 6.914063,12.9998 H 18.5 c 0.277,0 0.500001,-0.223 0.500001,-0.5 0,-0.277 -0.223001,-0.5 -0.500001,-0.5 H 6.914063 l 4.095453,-4.0953 c 0.195859,-0.1959 0.195868,-0.5111 0,-0.707 C 10.911586,7.0996 10.78381,7.051 10.656,7.051 Z"
-     style="stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
      id="path510"
      sodipodi:nodetypes="scccsccsssccss" />
 </svg>

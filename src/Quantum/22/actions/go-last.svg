@@ -25,26 +25,34 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="26"
-     inkscape:cx="10.980769"
+     inkscape:cx="11.019231"
      inkscape:cy="9.0384615"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="991"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text { color:#363636; }
+    </style>
+  </defs>
   <path
-     d="m 9.344001,6.0512421 c 0.12781,-7e-7 0.255585,0.048547 0.353516,0.1464845 l 5.302484,5.3024924 -5.302484,5.304297 c -0.195868,0.195867 -0.511162,0.195867 -0.707032,0 -0.195867,-0.195869 -0.19587,-0.511166 0,-0.707032 l 4.095454,-4.097265 H 3.500001 c -0.277,0 -0.500001,-0.223 -0.500001,-0.5 0,-0.277 0.223001,-0.5 0.500001,-0.5 h 9.585938 L 8.990485,6.9047578 C 8.794626,6.7088809 8.794617,6.3935947 8.990485,6.1977266 9.088419,6.0997925 9.216191,6.051243 9.344001,6.0512421 Z"
-     style="stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 9.344001,6.051 c 0.12781,-7e-7 0.255585,0.048547 0.353516,0.1464845 l 5.302484,5.3024925 -5.302484,5.304297 c -0.195868,0.195867 -0.511162,0.195867 -0.707032,0 -0.195867,-0.195869 -0.19587,-0.511166 0,-0.707032 l 4.095454,-4.097265 H 3.500001 c -0.277,0 -0.500001,-0.223 -0.500001,-0.5 0,-0.277 0.223001,-0.5 0.500001,-0.5 h 9.585938 L 8.990485,6.9045157 C 8.794626,6.7086388 8.794617,6.3933526 8.990485,6.1974845 9.088419,6.0995504 9.216191,6.0510009 9.344001,6.051 Z"
+     style="fill:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
      id="path510"
      sodipodi:nodetypes="scccsccsssccss" />
   <circle
-     style="stroke-width:1.99999;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:currentColor;stroke-width:1.99999;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
      id="path679"
      cx="-17.500002"
-     cy="-11.500218"
+     cy="-11.499976"
      r="1.5"
      transform="scale(-1)" />
 </svg>
