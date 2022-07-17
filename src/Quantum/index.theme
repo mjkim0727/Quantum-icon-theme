@@ -2,7 +2,7 @@
 Name=Quantum
 Name[ko]=Quantum
 Comment=Quantum icon theme
-Inherits=Yaru,hicolor
+Inherits=breeze,Yaru,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,24,32,48,64,96,128,256

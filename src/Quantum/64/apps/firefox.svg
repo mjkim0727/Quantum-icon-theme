@@ -7,8 +7,8 @@
    viewBox="0 0 64 64.000003"
    version="1.1"
    id="svg5"
-   sodipodi:docname="firefox.svg"
-   inkscape:version="1.2 (1:1.2+202206011326+fc4e4096c5)"
+   sodipodi:docname="firefox-bin.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,10 +26,10 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="13"
-     inkscape:cx="31.923077"
-     inkscape:cy="32"
-     inkscape:window-width="1846"
-     inkscape:window-height="1053"
+     inkscape:cx="32.038462"
+     inkscape:cy="32.076923"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -40,7 +40,7 @@
        inkscape:collect="always"
        id="linearGradient3523">
       <stop
-         style="stop-color:#ff7139;stop-opacity:1;"
+         style="stop-color:#f94200;stop-opacity:1;"
          offset="0"
          id="stop3519" />
       <stop
