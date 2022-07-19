@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32.000001"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="0ad.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="24.6875"
+     inkscape:cx="15.979747"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient985"
+       id="linearGradient8655"
+       x1="25"
+       y1="30"
+       x2="7"
+       y2="2"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient985">
+      <stop
+         style="stop-color:#a0894c;stop-opacity:1;"
+         offset="0"
+         id="stop981" />
+      <stop
+         style="stop-color:#bab495;stop-opacity:1;"
+         offset="1"
+         id="stop983" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:url(#linearGradient8655);fill-opacity:1.0;stroke:none"
+     id="rect184"
+     width="27"
+     height="27"
+     x="2.5"
+     y="2.5"
+     ry="4.5" />
+  <path
+     id="path1493"
+     style="opacity:0.2;fill:#000000;stroke-width:1.81819;stroke-linejoin:round"
+     d="M 16 7 C 10.477164 7 6 11.477164 6 17 C 6 22.522835 10.477164 27 16 27 C 21.522835 27 26 22.522835 26 17 C 26 11.477164 21.522835 7 16 7 z M 15 9.0644531 L 15 16 L 8.0644531 16 C 8.5158441 12.381607 11.381607 9.5158441 15 9.0644531 z M 17 9.0644531 C 20.618393 9.5158441 23.484156 12.381607 23.935547 16 L 17 16 L 17 9.0644531 z M 8.0644531 18 L 15 18 L 15 24.935547 C 11.381607 24.484156 8.5158441 21.618393 8.0644531 18 z M 17 18 L 23.935547 18 C 23.484156 21.618393 20.618393 24.484156 17 24.935547 L 17 18 z " />
+  <path
+     id="path1039"
+     style="fill:#ffffff;stroke-width:1.81819;stroke-linejoin:round"
+     d="M 16 6 C 10.477164 6 6 10.477164 6 16 C 6 21.522835 10.477164 26 16 26 C 21.522835 26 26 21.522835 26 16 C 26 10.477164 21.522835 6 16 6 z M 15 8.0644531 L 15 15 L 8.0644531 15 C 8.5158441 11.381607 11.381607 8.5158441 15 8.0644531 z M 17 8.0644531 C 20.618393 8.5158442 23.484156 11.381607 23.935547 15 L 17 15 L 17 8.0644531 z M 8.0644531 17 L 15 17 L 15 23.935547 C 11.381607 23.484156 8.5158441 20.618393 8.0644531 17 z M 17 17 L 23.935547 17 C 23.484156 20.618393 20.618393 23.484156 17 23.935547 L 17 17 z " />
+  <path
+     id="rect2630"
+     style="opacity:0.3;fill:#ffffff;fill-opacity:1"
+     d="M 7,3 C 4.7840022,3 3,4.7840022 3,6.9999998 v 1 C 3,5.7840022 4.7840022,4 7,4 h 18 c 2.215998,0 4,1.7840022 4,3.9999998 v -1 C 29,4.7840022 27.215998,3 25,3 Z" />
+  <path
+     id="rect398"
+     style="opacity:0.3;fill:#ffffff"
+     d="m 3.0000002,24 v 1 c 0,2.215998 1.7840022,4 4,4 H 25 c 2.215998,0 4,-1.784002 4,-4 v -1 c 0,2.215998 -1.784002,4 -4,4 H 7.0000002 c -2.2159978,0 -4,-1.784002 -4,-4 z" />
+  <path
+     id="rect899"
+     style="fill:#000000;stroke:none;opacity:0.5"
+     d="M 7 2 C 4.2300028 2 2 4.2300028 2 7 L 2 25 C 2 27.769997 4.2300028 30 7 30 L 25 30 C 27.769997 30 30 27.769997 30 25 L 30 7 C 30 4.2300028 27.769997 2 25 2 L 7 2 z M 7 3 L 25 3 C 27.215998 3 29 4.7840022 29 7 L 29 25 C 29 27.215998 27.215998 29 25 29 L 7 29 C 4.7840022 29 3 27.215998 3 25 L 3 7 C 3 4.7840022 4.7840022 3 7 3 z " />
+</svg>

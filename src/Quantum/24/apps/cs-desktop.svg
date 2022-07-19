@@ -26,10 +26,10 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="16.166667"
-     inkscape:cx="-0.58762885"
+     inkscape:cx="-0.52577319"
      inkscape:cy="-0.86597936"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,7 +38,7 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient21236"
+       xlink:href="#linearGradient22024"
        id="linearGradient10386"
        x1="12"
        y1="23"
@@ -47,15 +47,15 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient21236">
+       id="linearGradient22024">
       <stop
-         style="stop-color:#3689e6;stop-opacity:1;"
+         style="stop-color:#dedede;stop-opacity:1;"
          offset="0"
-         id="stop21232" />
+         id="stop22020" />
       <stop
-         style="stop-color:#5dcffc;stop-opacity:1;"
+         style="stop-color:#f2f2ff;stop-opacity:1;"
          offset="1"
-         id="stop21234" />
+         id="stop22022" />
     </linearGradient>
   </defs>
   <rect
@@ -66,17 +66,18 @@
      x="1.5"
      y="1.5"
      ry="3.5" />
+  <path
+     id="rect348"
+     style="fill:#eb615b;fill-opacity:1;stroke-width:0.381881;stroke-linejoin:round"
+     d="M 5,1.5 C 3.0610019,1.5 1.5,3.0610019 1.5,5 v 3 h 21 V 5 C 22.5,3.0610019 20.938998,1.5 19,1.5 Z"
+     sodipodi:nodetypes="ssccsss" />
   <rect
-     style="opacity:0.2;fill:#ffffff;stroke-width:0.572822;stroke-linejoin:round"
+     style="opacity:0.2;fill:#000000;stroke-width:0.572822;stroke-linejoin:round"
      id="rect581"
      width="21"
      height="1"
      x="1.5"
      y="7" />
-  <path
-     id="rect348"
-     style="fill:#3b3b3b;fill-opacity:1;stroke-width:0.381881;stroke-linejoin:round"
-     d="M 5 1.5 C 3.0610019 1.5 1.5 3.0610019 1.5 5 L 1.5 7 L 22.5 7 L 22.5 5 C 22.5 3.0610019 20.938998 1.5 19 1.5 L 5 1.5 z " />
   <path
      id="rect2630"
      style="fill:#ffffff;fill-opacity:1;opacity:0.3"
