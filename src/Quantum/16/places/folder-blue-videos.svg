@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="8.5"
-     inkscape:cy="8"
+     inkscape:zoom="51.625"
+     inkscape:cx="7.8450363"
+     inkscape:cy="7.748184"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -97,8 +97,8 @@
      d="M 8,2 7,3.5 C 6.6665975,3.806988 6.553999,4 6,4 H 1 C 0.4477164,4 0,4.447716 0,5 V 6 C 0,5.447716 0.4477164,5 1,5 H 6 C 6.5539985,5 6.666597,4.8069875 7,4.5 L 8,3 h 7 c 0.553998,0 1,0.446002 1,1 V 3 C 16,2.446002 15.553998,2 15,2 Z"
      sodipodi:nodetypes="ccssscssccscssc" />
   <path
-     id="rect43685"
-     style="opacity:0.6;fill:#ffffff;stroke-width:2"
-     d="m 6,7 5,3 -5,3 z"
-     sodipodi:nodetypes="cccc" />
+     id="path3521"
+     style="display:inline;opacity:0.6;fill:#ffffff;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
+     d="m 3,6 v 7 h 1 v -1 h 1 v 1 h 5 0.999999 v -1 h 1 v 1 h 1 V 6 h -1 v 1 h -1 V 6 H 10 5 V 7 H 4 V 6 Z m 3,1 h 4 V 9 H 6 Z M 4,8 H 5 V 9 H 4 Z m 7,0 h 1 V 9 H 11 Z M 4,9.9999997 H 5 V 11 H 4 Z m 2,0 h 4 V 12 H 6 Z m 5,0 h 1 V 11 h -1 z"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
 </svg>

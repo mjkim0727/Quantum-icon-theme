@@ -27,9 +27,9 @@
      showgrid="false"
      inkscape:zoom="12.375"
      inkscape:cx="32.040404"
-     inkscape:cy="19.070707"
+     inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -87,13 +87,6 @@
      x="4.5"
      y="4.5"
      ry="9.5" />
-  <ellipse
-     style="opacity:0.2;fill:#000000;stroke-width:2.5;stroke-linejoin:round"
-     id="path6138"
-     cx="32"
-     cy="32.999989"
-     rx="20"
-     ry="19.999985" />
   <g
      id="g13900"
      transform="matrix(4.4465028,0,0,4.4465028,3.7646226,3.7647064)">

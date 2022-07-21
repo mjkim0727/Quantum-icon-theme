@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="application-rss_xml.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="8.8388348"
+     inkscape:cx="-18.328208"
+     inkscape:cy="-8.2590072"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.5;fill:#652d00;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
+     id="rect234"
+     width="24"
+     height="30"
+     x="4"
+     y="1"
+     ry="1" />
+  <rect
+     style="fill:#fc8f36;fill-opacity:1;stroke-width:6.05515;stroke-linejoin:round"
+     id="rect2307"
+     width="22"
+     height="28"
+     x="5"
+     y="2" />
+  <path
+     d="m 8.0633,25.9016 c 0,-0.30708 0.10601,-0.56488 0.31803,-0.7734 0.21203,-0.2123 0.47138,-0.31845 0.77806,-0.31846 0.2991,10e-6 0.55277,0.10616 0.76101,0.31846 0.21202,0.20852 0.31803,0.46632 0.31803,0.7734 0,0.29951 -0.10601,0.55541 -0.31803,0.76771 C 9.71216,26.87783 9.45849,26.98209 9.15939,26.98208 8.85271,26.98209 8.59336,26.87783 8.38133,26.66931 8.16932,26.4608 8.0633,26.2049 8.0633,25.9016 M 8,20.97074 v 1.81639 c 2.32019,0 4.20468,1.88816 4.20468,4.21287 h 1.82234 c 0,-3.32999 -2.70351,-6.02926 -6.02702,-6.02926 z m 0.003,-3.97448 v 2.0078 c 4.40528,0 7.98215,3.58164 7.98215,7.9928 h 2.01473 c 10e-6,-5.52189 -4.48234,-10.0006 -9.99686,-10.0006 z"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.5899px;line-height:125%;font-family:'Bitstream Vera Serif';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+     id="path5192" />
+</svg>

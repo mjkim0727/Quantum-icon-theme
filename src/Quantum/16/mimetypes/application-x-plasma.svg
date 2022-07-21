@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="application-x-plasma.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="49.375"
+     inkscape:cx="7.9898734"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
+     id="rect234"
+     width="12"
+     height="16"
+     x="2"
+     y="0"
+     ry="1" />
+  <rect
+     style="fill:#fafafa;fill-opacity:1;stroke-width:2.88668;stroke-linejoin:round"
+     id="rect2307"
+     width="10"
+     height="14"
+     x="3"
+     y="1" />
+  <path
+     id="path360"
+     style="fill:#3daee9;fill-opacity:1;stroke-width:0.833334"
+     d="M 6,3 C 5.4460058,3 5,3.4459988 5,4 5,4.5539954 5.4460058,5 6,5 6.5540024,5 7,4.5539954 7,4 7,3.4459988 6.5540024,3 6,3 Z M 9.4296874,3 8,4.3320312 10.144531,6.3339844 8,8.3339844 9.4296874,9.6660156 13,6.3339844 Z M 4,7 C 3.4460058,7 3,7.4459986 3,8 3,8.5539954 3.4460058,9 4,9 4.5540026,9 5,8.5539954 5,8 5,7.4459986 4.5540026,7 4,7 Z m 2.5,3 C 5.6690082,10 5,10.668999 5,11.5 5,12.330993 5.6690082,13 6.5,13 7.3310038,13 8,12.330993 8,11.5 8,10.668999 7.3310038,10 6.5,10 Z" />
+</svg>

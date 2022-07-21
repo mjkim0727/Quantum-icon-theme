@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="text-x-csharp.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="13.333333"
+     inkscape:cx="32.025"
+     inkscape:cy="32.025"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
+     id="rect234"
+     width="48"
+     height="60"
+     x="8"
+     y="2"
+     ry="1" />
+  <rect
+     style="fill:#fafafa;fill-opacity:1;stroke-width:3.1622;stroke-linejoin:round"
+     id="rect2307"
+     width="46"
+     height="58"
+     x="9"
+     y="3" />
+  <path
+     d="m 22.00008,24.000132 c 0,0 -3.999953,0 -3.999953,3.999953 v 7.999906 c 0,3.999952 3.999953,3.999952 3.999953,3.999952 h 6.000118 V 37.999929 H 22.00008 c 0,0 -2.000014,0 -2.000014,-2.000014 v -7.999906 c 0,-2.000014 2.000014,-2.000014 2.000014,-2.000014 h 6.000118 v -2.000014 z m 11.999859,0 v 3.999953 h -3.999953 v 2.000014 h 3.999953 v 3.999953 h -3.999953 v 2.000014 h 3.999953 v 3.999953 h 2.000014 v -3.999953 h 3.999953 v 3.999953 h 2.000014 v -3.999953 h 3.999953 V 34.000052 H 41.99992 v -3.999953 h 3.999953 V 28.000085 H 41.99992 v -3.999953 h -2.000014 v 3.999953 h -3.999953 v -3.999953 z m 2.000014,6.000118 h 3.999953 v 3.999953 h -3.999953 z"
+     style="color:#000000;text-indent:0;text-decoration-line:none;text-transform:none;fill:#9754d0;fill-opacity:1;stroke-width:3.7796"
+     id="path13398" />
+</svg>

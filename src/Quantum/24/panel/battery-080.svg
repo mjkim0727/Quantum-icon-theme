@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    sodipodi:docname="battery-080.svg"
-   inkscape:version="1.2 (1:1.2+202206011326+fc4e4096c5)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,23 +25,32 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="18.384776"
-     inkscape:cx="1.8765526"
-     inkscape:cy="13.217458"
-     inkscape:window-width="1846"
-     inkscape:window-height="1053"
+     inkscape:cx="3.8346945"
+     inkscape:cy="13.163065"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text { color:#dfdfdf; }
+    </style>
+  </defs>
   <path
      d="m 5,10 c -0.5539994,0 -1,0.446001 -1,1 v 3 c 0,0.553999 0.4460006,1 1,1 z M 8,7 C 6.8920011,7 6,7.8920011 6,9 v 7 c 0,1.107999 0.8920011,2 2,2 h 10 c 1.107999,0 2,-0.892001 2,-2 V 9 C 20,7.8920011 19.107999,7 18,7 Z m 0,1 h 10 c 0.553999,0 1,0.4460006 1,1 v 7 c 0,0.553999 -0.446001,1 -1,1 H 8 C 7.4460006,17 7,16.553999 7,16 V 9 C 7,8.4460006 7.4460006,8 8,8 Z"
      id="path1017"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
      sodipodi:nodetypes="cssccssssssssssssssssss" />
   <path
      d="m 10,9 h 8 v 7 h -8 z"
      id="path1056"
+     class="ColorScheme-Text"
      sodipodi:nodetypes="ccccc"
-     style="fill-opacity:1" />
+     style="fill:currentColor;fill-opacity:1" />
 </svg>
