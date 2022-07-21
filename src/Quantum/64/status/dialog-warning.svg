@@ -26,10 +26,10 @@
      showgrid="false"
      units="px"
      inkscape:zoom="12.5"
-     inkscape:cx="32"
-     inkscape:cy="32"
+     inkscape:cx="32.08"
+     inkscape:cy="32.04"
      inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-height="1009"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -79,8 +79,4 @@
      style="font-size:30.4709px;line-height:1.25;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';fill:#4d4d4d;fill-opacity:1;stroke-width:1.24654"
      id="path13331"
      sodipodi:nodetypes="cccccccscscscscs" />
-  <path
-     id="path3105"
-     style="color:#000000;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:2;stroke-linejoin:round;-inkscape-stroke:none"
-     d="m 31.999776,6 c -2.188487,1.512e-4 -4.203345,1.1917201 -5.257809,3.1093735 L 4.7419782,49.109355 C 4.0473924,50.373236 3.8634455,51.724738 4.0779159,52.984353 4.1882177,52.352344 4.406217,51.720312 4.7419782,51.109352 L 26.741967,11.109372 c 1.054464,-1.9176525 3.069322,-3.1092219 5.257809,-3.1093731 2.18848,1.512e-4 4.203354,1.1917206 5.25781,3.1093731 l 21.999992,39.99998 c 0.335773,0.61096 0.553761,1.242992 0.664059,1.875001 0.214489,-1.259615 0.03062,-2.611117 -0.664059,-3.874998 L 37.257586,9.1093735 C 36.20313,7.1917201 34.188256,6.0001512 31.999776,6 Z" />
 </svg>

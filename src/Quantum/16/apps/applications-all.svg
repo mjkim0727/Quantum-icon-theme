@@ -26,10 +26,10 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="49.375"
-     inkscape:cx="7.9898734"
-     inkscape:cy="8"
+     inkscape:cx="8"
+     inkscape:cy="5.1949367"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="1009"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -40,9 +40,9 @@
        inkscape:collect="always"
        xlink:href="#linearGradient21236"
        id="linearGradient19638"
-       x1="8"
-       y1="15.5"
-       x2="8"
+       x1="13"
+       y1="16"
+       x2="3"
        y2="0"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
@@ -59,7 +59,7 @@
     </linearGradient>
   </defs>
   <rect
-     style="fill:url(#linearGradient19638);fill-opacity:1.0;stroke:none"
+     style="fill:url(#linearGradient19638);fill-opacity:1;stroke:none"
      id="rect184"
      width="15"
      height="15"
