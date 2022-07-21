@@ -9,12 +9,21 @@ Linux icon theme
 
 # Features
 
-* Light Panel
-* Pixel Perfect Icons
+* Pixel Perfect Icons (16px/24px/32px/48px/64px/128px/256px)
 * Pop!_OS COSMIC Support
 
-# Install
+# Install(Not recommended now)
 
 Open terminal, and run install.sh file.
 
 # Contributing
+
+Go to Template folder.
+
+# Screenshot
+
+* ![kde_icon](src/Quantum/16/apps/desktop-environment-kde.svg) KDE Plasma
+
+![kde_screenshot](image/kde_screenshot.png)
+
+* ![gnome_icon](src/Quantum/16/apps/desktop-environment-gnome.svg) GNOME
