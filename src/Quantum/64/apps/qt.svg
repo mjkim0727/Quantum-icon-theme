@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64.000003"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="qt.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.828125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2833"
+       id="linearGradient3525"
+       x1="50"
+       y1="60"
+       x2="14"
+       y2="4"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2833">
+      <stop
+         style="stop-color:#00cc5c;stop-opacity:1;"
+         offset="0"
+         id="stop2829" />
+      <stop
+         style="stop-color:#65e35e;stop-opacity:1;"
+         offset="1"
+         id="stop2831" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:url(#linearGradient3525);fill-opacity:1.0;stroke:none"
+     id="rect184"
+     width="55"
+     height="55"
+     x="4.5"
+     y="4.5"
+     ry="9.5" />
+  <path
+     style="opacity:0.2;stroke-width:2"
+     d="m 40,19 v 6 h -4 v 4 h 4 v 8.234376 C 40,42.881434 41.998402,45 45.585938,45 H 50 V 41 H 46.03125 C 44.101676,41 44,39.65947 44,36.835938 V 29 h 6 V 25 H 44 V 19 Z M 24.050782,19.04296 C 16.109896,19.042968 14,23.529412 14,32 c 0,8.470588 2.072782,13.054688 10.050782,13.054688 h 2.265624 l 3.300782,5.64453 3.824218,-1.410156 -3.117188,-5.648438 C 33.292774,42.22886 34,37.647058 34,32 34,23.529412 31.991668,19.042968 24.050782,19.042968 Z M 24.015622,23 c 4.844012,0 5.984388,3.51398 5.984376,9.308594 C 29.999998,38.103206 28.896338,41 24.015622,41 19.13491,41 17.999998,38.103206 17.999998,32.308594 17.999998,26.51398 19.171616,23 24.015622,23 Z"
+     id="path4865" />
+  <path
+     style="fill:#ffffff;stroke-width:2"
+     d="m 40,18 v 6 h -4 v 4 h 4 v 8.234376 C 40,41.881434 41.998402,44 45.585938,44 H 50 V 40 H 46.03125 C 44.101676,40 44,38.65947 44,35.835938 V 28 h 6 V 24 H 44 V 18 Z M 24.050782,18.04296 C 16.109896,18.042962 14,22.529404 14,30.999992 14,39.47058 16.072782,44.05468 24.050782,44.05468 h 2.265624 l 3.300782,5.64453 3.824218,-1.410156 -3.117188,-5.648438 C 33.292774,41.228852 34,36.64705 34,30.999992 34,22.529404 31.991668,18.042962 24.050782,18.04296 Z m -0.03516,3.957032 c 4.844012,0 5.984388,3.51398 5.984376,9.308594 0,5.794612 -1.10366,8.691406 -5.984376,8.691406 -4.880712,0 -6.015624,-2.896794 -6.015624,-8.691406 0,-5.794614 1.171618,-9.308594 6.015624,-9.308594 z"
+     id="path4867" />
+  <path
+     id="rect2630"
+     style="opacity:0.3;fill:#ffffff;fill-opacity:1"
+     d="M 14,5 C 9.014005,5 5,9.014005 5,14 v 1 C 5,10.014005 9.014005,6 14,6 h 36 c 4.985995,0 9,4.014005 9,9 V 14 C 59,9.014005 54.985995,5 50,5 Z" />
+  <path
+     id="rect899"
+     style="fill:#000000;stroke:none;opacity:0.6"
+     d="M 14,4 C 8.4600055,4 4,8.4600055 4,14 v 36 c 0,5.539994 4.4600055,10 10,10 h 36 c 5.539994,0 10,-4.460006 10,-10 V 14 C 60,8.4600055 55.539994,4 50,4 Z m 0,1 h 36 c 4.985995,0 9,4.014005 9,9 v 36 c 0,4.985995 -4.014005,9 -9,9 H 14 C 9.014005,59 5,54.985995 5,50 V 14 C 5,9.014005 9.014005,5 14,5 Z" />
+  <path
+     id="rect398"
+     style="opacity:0.3;fill:#ffffff"
+     d="M 5 49 L 5 50 C 5 54.985995 9.014005 59 14 59 L 50 59 C 54.985995 59 59 54.985995 59 50 L 59 49 C 59 53.985995 54.985995 58 50 58 L 14 58 C 9.014005 58 5 53.985995 5 49 z " />
+</svg>
