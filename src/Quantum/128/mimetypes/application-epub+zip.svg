@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="application-epub+zip.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="6.6949153"
+     inkscape:cx="64.153164"
+     inkscape:cy="64.003797"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linejoin:round"
+     id="rect234"
+     width="92"
+     height="118"
+     x="18"
+     y="5"
+     ry="1" />
+  <rect
+     style="fill:#fafafa;fill-opacity:1;stroke-width:6.2691;stroke-linejoin:round"
+     id="rect2307"
+     width="90"
+     height="116"
+     x="19"
+     y="6" />
+  <path
+     d="m 63.999892,81.597637 -17.597404,-17.59877 17.597404,-17.59614 5.866411,5.865236 -11.732697,11.730904 5.865892,5.866076 17.597591,-17.596056 -15.32977,-15.329236 c -1.25161,-1.252869 -3.281969,-1.252869 -4.534837,0 L 36.9388,61.733427 c -1.251734,1.251608 -1.251734,3.282068 0,4.53474 l 24.793682,24.79305 c 1.25287,1.252376 3.283227,1.252376 4.534837,0 l 24.793882,-24.79305 c 1.251732,-1.252672 1.251732,-3.283132 0,-4.53474 l -3.599144,-3.598232 z"
+     style="fill:#aad400;stroke-width:8.00004"
+     id="path300" />
+</svg>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="application-epub+zip.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.828125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
+     id="rect234"
+     width="48"
+     height="60"
+     x="8"
+     y="2"
+     ry="1" />
+  <rect
+     style="fill:#fafafa;fill-opacity:1;stroke-width:3.1622;stroke-linejoin:round"
+     id="rect2307"
+     width="46"
+     height="58"
+     x="9"
+     y="3" />
+  <path
+     d="m 31.999945,40.798694 -8.798702,-8.799385 8.798702,-8.79807 2.933206,2.932618 -5.866348,5.865452 2.932946,2.933038 8.798795,-8.798028 -7.664885,-7.664618 c -0.625806,-0.626434 -1.640984,-0.626434 -2.267418,0 L 18.469399,30.866589 c -0.625866,0.625804 -0.625866,1.641034 0,2.26737 l 12.396842,12.396525 c 0.626434,0.626188 1.641612,0.626188 2.267418,0 L 45.5306,33.133959 c 0.625866,-0.626336 0.625866,-1.641566 0,-2.26737 l -1.799572,-1.799116 z"
+     style="fill:#aad400;stroke-width:4.00002"
+     id="path300" />
+</svg>

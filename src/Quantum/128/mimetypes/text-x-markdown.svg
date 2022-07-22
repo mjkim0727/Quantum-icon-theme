@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="text-x-markdown.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="6.6949153"
+     inkscape:cx="64.153164"
+     inkscape:cy="64.003797"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linejoin:round"
+     id="rect234"
+     width="92"
+     height="118"
+     x="18"
+     y="5"
+     ry="1" />
+  <rect
+     style="fill:#fafafa;fill-opacity:1;stroke-width:6.2691;stroke-linejoin:round"
+     id="rect2307"
+     width="90"
+     height="116"
+     x="19"
+     y="6" />
+  <path
+     id="rect297"
+     style="fill:#505f6f;stroke-width:6;stroke-linecap:round;stroke-linejoin:round"
+     d="m 34,44 c -3.323992,0 -6,2.676008 -6,6 v 28 c 0,3.323992 2.676008,6 6,6 h 60 c 3.323992,0 6,-2.676008 6,-6 V 50 c 0,-3.323992 -2.676008,-6 -6,-6 z m 0,4 h 60 c 1.107996,0 2,0.892004 2,2 v 28 c 0,1.107996 -0.892004,2 -2,2 H 34 c -1.107996,0 -2,-0.892004 -2,-2 V 50 c 0,-1.107996 0.892004,-2 2,-2 z m 6,6 v 20 h 6 V 63 l 6,6.5 6,-6.5 v 11 h 6 V 54 H 58 L 52,60.625 46,54 Z m 36,0 v 10 h -6 l 9,11 9,-11 H 82 V 54 Z" />
+</svg>

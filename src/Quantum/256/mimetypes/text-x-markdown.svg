@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="text-x-markdown.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.1820873"
+     inkscape:cx="24.976086"
+     inkscape:cy="151.00221"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linejoin:round"
+     id="rect234"
+     width="182"
+     height="234"
+     x="37"
+     y="11"
+     ry="1" />
+  <rect
+     style="fill:#fafafa;fill-opacity:1;stroke-width:12.9238;stroke-linejoin:round"
+     id="rect2307"
+     width="180"
+     height="232"
+     x="38"
+     y="12" />
+  <path
+     id="rect297"
+     style="fill:#505f6f;stroke-width:12;stroke-linecap:round;stroke-linejoin:round"
+     d="m 68,88 c -6.647984,0 -12,5.352016 -12,12 v 56 c 0,6.64796 5.352016,12 12,12 h 120.00002 c 6.64796,0 12,-5.35204 12,-12 v -56 c 0,-6.647984 -5.35204,-12 -12,-12 z m 0,8 h 120.00002 c 2.21596,0 4,1.784008 4,4 v 56 c 0,2.216 -1.78404,4 -4,4 H 68 c -2.215992,0 -4,-1.784 -4,-4 v -56 c 0,-2.215992 1.784008,-4 4,-4 z m 12,12 v 40 H 92 V 126.00001 L 104.00002,139 l 12,-12.99999 V 148 h 12 v -40 h -12 l -12,13.25001 L 92,108 Z m 72.00002,0 v 20.00001 h -12 l 18,21.99999 18,-21.99999 h -12 V 108 Z" />
+</svg>

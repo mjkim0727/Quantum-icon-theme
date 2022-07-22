@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="application-vnd.ms-powerpoint.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="6.171875"
+     inkscape:cx="64.081013"
+     inkscape:cy="64.081013"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linejoin:round"
+     id="rect234"
+     width="92"
+     height="118"
+     x="18"
+     y="5"
+     ry="1" />
+  <rect
+     style="fill:#fafafa;fill-opacity:1;stroke-width:6.2691;stroke-linejoin:round"
+     id="rect2307"
+     width="90"
+     height="116"
+     x="19"
+     y="6" />
+  <circle
+     style="opacity:0.3;fill:#d04423;fill-opacity:1;stroke-width:21.3334;stroke-linejoin:bevel"
+     id="path31463"
+     cx="69"
+     cy="64"
+     r="31.999992" />
+  <path
+     id="path31465"
+     style="opacity:0.7;fill:#d04423;fill-opacity:1;stroke-width:16;stroke-linejoin:bevel"
+     d="M 36.999998,63.999995 A 31.999997,31.999997 0 0 0 68.999993,96 31.999997,31.999997 0 0 0 100.99999,63.999995 H 68.999993 Z" />
+  <path
+     id="path31759"
+     style="opacity:0.5;fill:#d04423;fill-opacity:1;stroke-width:16;stroke-linejoin:bevel"
+     d="M 68.999993,32 A 31.999993,31.999997 0 0 0 36.999998,63.999995 h 31.999995 z" />
+  <rect
+     style="fill:#fafafa;fill-opacity:1;stroke-width:2"
+     id="rect3242"
+     width="40"
+     height="40"
+     x="27"
+     y="44"
+     ry="6" />
+  <rect
+     style="fill:#d04423;fill-opacity:1;stroke-width:2"
+     id="rect2687"
+     width="36"
+     height="36"
+     x="29"
+     y="46.000008"
+     ry="3.9999983" />
+  <path
+     id="rect4291"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:2"
+     d="m 40.999998,51.999999 v 23.999996 h 3.999999 v -7.999998 h 4 a 7.9999995,7.9999995 0 0 0 8,-7.999998 7.9999995,7.9999995 0 0 0 -8,-8 h -4 z m 3.999999,4 h 4 a 3.9999997,3.9999997 0 0 1 4,4 3.9999997,3.9999997 0 0 1 -4,3.999996 h -4 z" />
+</svg>

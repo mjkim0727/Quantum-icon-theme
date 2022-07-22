@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="application-epub+zip.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="51.3125"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
+     id="rect234"
+     width="12"
+     height="16"
+     x="2"
+     y="0"
+     ry="1" />
+  <rect
+     style="fill:#fafafa;fill-opacity:1;stroke-width:2.88668;stroke-linejoin:round"
+     id="rect2307"
+     width="10"
+     height="14"
+     x="3"
+     y="1" />
+  <path
+     d="M 7.9999837,10.513949 5.486069,7.9998384 7.9999837,5.4861042 8.8380432,6.3239957 7.1619442,7.9998384 7.9999278,8.8378498 10.51387,6.3241277 8.3239027,4.1342362 c -0.1788016,-0.1789816 -0.4688522,-0.1789816 -0.6478338,0 l -3.5419552,3.541968 c -0.1788183,0.1788011 -0.1788183,0.4688674 0,0.6478205 l 3.5419552,3.5418643 c 0.1789816,0.17891 0.4690322,0.17891 0.6478338,0 L 11.865886,8.3240247 c 0.178819,-0.1789531 0.178819,-0.4690194 0,-0.6478205 l -0.514164,-0.514033 z"
+     style="fill:#aad400;stroke-width:1.14286"
+     id="path300" />
+</svg>

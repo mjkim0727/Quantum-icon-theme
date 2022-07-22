@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="3.4188034"
-     inkscape:cx="128.115"
-     inkscape:cy="128.115"
+     inkscape:zoom="9.6698363"
+     inkscape:cx="183.14684"
+     inkscape:cy="229.01112"
      inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -94,19 +94,14 @@
      id="rect4044"
      style="fill:#ffffff;fill-opacity:1;stroke-width:4"
      d="m 73.99999,103.99998 15.999998,23.99999 -15.999998,24 h 7.999999 l 11.999999,-18 11.999982,18 h 8 l -15.999983,-24 15.999983,-23.99999 h -8 L 93.999988,121.99997 81.999989,103.99998 Z" />
-  <g
-     id="path3588"
-     style="opacity:0.8;stroke:none"
-     transform="matrix(2.0000011,0,0,2.0000011,-3921.4525,-88.133863)">
-    <path
-       style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;-inkscape-stroke:none"
-       d="m 2069.9751,87.518383 -79.0334,78.798457 h 79.0334 z m -16.2468,36.798477 v 25.99979 l -26.7532,3.9e-4 z"
-       id="path3615"
-       sodipodi:nodetypes="cccccccc" />
-    <path
-       style="color:#000000;fill:#83899a;fill-opacity:1;fill-rule:evenodd;stroke:none;-inkscape-stroke:none;opacity:0.5"
-       d="m 2070.2246,86.564453 -80.2422,80.001957 h 80.2422 z m -0.4995,1.50243 v 77.999957 h -78.3229 z m -15.4966,34.999977 -28.0034,27.49999 h 28 z m -1,2.25 v 24.24955 h -24.7773 z"
-       id="path3617"
-       sodipodi:nodetypes="cccccccccccccccc" />
-  </g>
+  <path
+     style="color:#000000;opacity:0.8;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2px;-inkscape-stroke:none"
+     d="M 218.49998,86.902999 60.43309,244.5 h 158.06689 z m -32.49362,73.596991 v 51.99961 l -53.50643,7.8e-4 z"
+     id="path3615"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     style="color:#000000;opacity:0.4;fill:#83899a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;-inkscape-stroke:none"
+     d="M 218.99898,84.995138 58.514489,244.99914 H 218.99898 Z M 217.99998,88 V 244 H 61.354091 Z M 187.00676,157.99999 130.99993,213 h 56.00003 z m -2,4.5 v 48.49913 h -49.55463 z"
+     id="path3617"
+     sodipodi:nodetypes="cccccccccccccccc" />
 </svg>
