@@ -11,6 +11,7 @@ Linux icon theme
 
 * Pixel Perfect Icons (16px/24px/32px/48px/64px/128px/256px)
 * Pop!_OS COSMIC Support
+* Elegant Folder Icons
 
 # Install(Not recommended now)
 
@@ -27,3 +28,5 @@ Go to Template folder.
 ![kde_screenshot](image/kde_screenshot.png)
 
 * ![gnome_icon](src/Quantum/16/apps/desktop-environment-gnome.svg) GNOME
+
+![gnome_screenshot](image/gnome_screenshot.png)
