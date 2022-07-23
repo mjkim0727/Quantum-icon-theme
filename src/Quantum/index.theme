@@ -2,10 +2,10 @@
 Name=Quantum
 Name[ko]=Quantum
 Comment=Quantum icon theme
-Inherits=Papirus,breeze,Yaru,hicolor
+Inherits=breeze,hicolor
 
 DesktopDefault=48
-DesktopSizes=16,24,32,48,64,96,128,256
+DesktopSizes=16,22,24,32,48,64,128,256
 ToolbarDefault=22
 ToolbarSizes=16,22,24,32,48
 MainToolbarDefault=22
@@ -55,7 +55,7 @@ Size=16
 Type=Fixed
 
 [16/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=16
 Type=Fixed
 
@@ -97,7 +97,7 @@ Size=22
 Type=Fixed
 
 [22/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=22
 Type=Fixed
 
@@ -146,7 +146,7 @@ Size=24
 Type=Fixed
 
 [24/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=24
 Type=Fixed
 
@@ -188,7 +188,7 @@ Size=32
 Type=Fixed
 
 [32/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=32
 Type=Fixed
 
@@ -220,7 +220,7 @@ Size=48
 Type=Fixed
 
 [48/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=48
 Type=Fixed
 
@@ -258,7 +258,7 @@ MaxSize=96
 Type=Scalable
 
 [64/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=64
 MinSize=32
 MaxSize=96
@@ -291,7 +291,7 @@ Size=128
 Type=Fixed
 
 [128/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=128
 Type=Fixed
 
@@ -322,7 +322,7 @@ MaxSize=512
 Type=Scalable
 
 [256/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=256
 MinSize=256
 MaxSize=512
@@ -448,7 +448,7 @@ Scale=2
 Type=Fixed
 
 [16@2x/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=16
 Scale=2
 Type=Fixed
@@ -475,6 +475,12 @@ Type=Fixed
 
 [22@2x/actions]
 Context=Actions
+Size=22
+Scale=2
+Type=Fixed
+
+[22@2x/mimetypes]
+Context=MimeTypes
 Size=22
 Scale=2
 Type=Fixed
@@ -512,7 +518,7 @@ Scale=2
 Type=Fixed
 
 [24@2x/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=24
 Scale=2
 Type=Fixed
@@ -562,7 +568,7 @@ Scale=2
 Type=Fixed
 
 [32@2x/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=32
 Scale=2
 Type=Fixed
@@ -600,7 +606,7 @@ Scale=2
 Type=Fixed
 
 [48@2x/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=48
 Scale=2
 Type=Fixed
@@ -644,7 +650,7 @@ Scale=2
 Type=Scalable
 
 [64@2x/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=64
 MinSize=64
 MaxSize=96
@@ -682,7 +688,7 @@ Scale=2
 Type=Fixed
 
 [128@2x/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=128
 Scale=2
 Type=Fixed
@@ -718,7 +724,7 @@ Scale=2
 Type=Scalable
 
 [256@2x/mimetypes]
-Context=Mimetypes
+Context=MimeTypes
 Size=256
 MinSize=256
 MaxSize=512

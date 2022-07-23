@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="application-x-gameboy-rom.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="25.65625"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linejoin:round"
+     id="rect234"
+     width="24"
+     height="30"
+     x="4"
+     y="1"
+     ry="1" />
+  <rect
+     style="fill:#666666;fill-opacity:1;stroke-width:1.51945;stroke-linejoin:round"
+     id="rect2307"
+     width="22"
+     height="28"
+     x="5"
+     y="2" />
+  <path
+     id="path411"
+     style="fill:#ffffff;stroke-width:1.718"
+     d="m 11,8 v 15 h 8 l 2,-2 V 8 Z m 2,2 h 6 v 5 h -6 z m 0.04492,7 h 0.908203 v 1 H 15 v 1 h -1.046875 v 1 H 13.044922 V 19 H 12 v -1 h 1.044922 z m 5.429687,0 c 0.0085,-4.32e-4 0.01676,0 0.02539,0 0.276142,0 0.5,0.223857 0.5,0.5 0,0.276143 -0.223858,0.5 -0.5,0.5 -0.276143,0 -0.500001,-0.223857 -0.5,-0.5 -10e-7,-0.267513 0.210425,-0.486608 0.47461,-0.5 z m -1,1 c 0.0085,-4.32e-4 0.01676,0 0.02539,0 0.276142,0 0.5,0.223857 0.5,0.5 0,0.276143 -0.223858,0.5 -0.5,0.5 -0.276143,0 -0.500001,-0.223857 -0.5,-0.5 -10e-7,-0.267513 0.210425,-0.486608 0.47461,-0.5 z"
+     sodipodi:nodetypes="ccccccccccccccccccccccccssssssssssss" />
+</svg>

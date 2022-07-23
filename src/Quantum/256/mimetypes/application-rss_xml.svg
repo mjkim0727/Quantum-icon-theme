@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="application-rss_xml.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="3.1054688"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.5;fill:#652d00;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
+     id="rect234"
+     width="182"
+     height="234"
+     x="37"
+     y="11"
+     ry="1" />
+  <rect
+     style="fill:#fc8f36;fill-opacity:1;stroke-width:11.4205;stroke-linejoin:round"
+     id="rect2307"
+     width="180"
+     height="232"
+     x="38"
+     y="12" />
+  <path
+     d="m 54.50632,219.21468 c 0,-2.4566 0.84812,-4.519 2.54424,-6.1872 1.69624,-1.69836 3.77104,-2.5476 6.22444,-2.54768 2.3928,8e-5 4.42216,0.84932 6.08808,2.54768 1.69616,1.6682 2.54424,3.7306 2.54424,6.1872 0,2.39608 -0.84808,4.44332 -2.54424,6.14168 -1.66592,1.6682 -3.69528,2.50224 -6.08808,2.5022 -2.4534,4e-5 -4.5282,-0.834 -6.22444,-2.5022 -1.69612,-1.66804 -2.54424,-3.71528 -2.54424,-6.14168 M 54,179.76784 v 14.53112 c 18.56148,0 33.6374,15.10528 33.6374,33.70296 h 14.57872 C 102.21612,201.362 80.58804,179.76784 54,179.76784 Z M 54.024,147.972 v 16.06244 c 35.24224,0 63.85716,28.65304 63.85716,63.94228 h 16.1178 C 133.99908,183.80172 98.14032,147.972 54.02412,147.972 Z"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.5899px;line-height:125%;font-family:'Bitstream Vera Serif';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4"
+     id="path3579" />
+</svg>
