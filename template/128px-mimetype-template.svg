@@ -25,10 +25,10 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="6.6949153"
-     inkscape:cx="64.003797"
-     inkscape:cy="63.929114"
+     inkscape:cx="64.153164"
+     inkscape:cy="64.003797"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -50,15 +50,4 @@
      height="116"
      x="19"
      y="6" />
-  <text
-     xml:space="preserve"
-     style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#7d7d7d;stroke-linejoin:round"
-     x="63.669998"
-     y="112"
-     id="text2462"><tspan
-       sodipodi:role="line"
-       id="tspan2460"
-       x="63.669998"
-       y="112"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Noto Sans CJK KR';-inkscape-font-specification:'Noto Sans CJK KR Medium';text-align:center;text-anchor:middle">MIMES</tspan></text>
 </svg>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="application-x-cd-image.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="25.65625"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
+     id="rect234"
+     width="24"
+     height="30"
+     x="4"
+     y="1"
+     ry="1" />
+  <rect
+     style="fill:#fafafa;fill-opacity:1;stroke-width:1.51945;stroke-linejoin:round"
+     id="rect2307"
+     width="22"
+     height="28"
+     x="5"
+     y="2" />
+  <path
+     id="path4048"
+     style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.466664;stroke-linejoin:round"
+     d="M 16 9 C 12.134031 9 9 12.134031 9 16 C 9 19.865969 12.134031 23 16 23 C 19.865969 23 23 19.865969 23 16 C 23 12.134031 19.865969 9 16 9 z M 16 13 C 17.656844 13 19 14.343156 19 16 C 19 17.656844 17.656844 19 16 19 C 14.343156 19 13 17.656844 13 16 C 13 14.343156 14.343156 13 16 13 z M 16 14 C 14.895437 14 14 14.895437 14 16 C 14 17.104563 14.895437 18 16 18 C 17.104563 18 18 17.104563 18 16 C 18 14.895437 17.104563 14 16 14 z M 16 15 C 16.55228 15 17 15.44772 17 16 C 17 16.552281 16.55228 17 16 17 C 15.44772 17 15 16.552281 15 16 C 15 15.44772 15.44772 15 16 15 z " />
+</svg>

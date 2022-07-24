@@ -25,8 +25,8 @@ Go to Template folder.
 
 * ![kde_icon](src/Quantum/16/apps/desktop-environment-kde.svg) KDE Plasma
 
-![kde_screenshot](image/kde_screenshot.png)
+![kde_screenshot](images/kde_screenshot.png)
 
 * ![gnome_icon](src/Quantum/16/apps/desktop-environment-gnome.svg) GNOME
 
-![gnome_screenshot](image/gnome_screenshot.png)
+![gnome_screenshot](images/gnome_screenshot.png)
