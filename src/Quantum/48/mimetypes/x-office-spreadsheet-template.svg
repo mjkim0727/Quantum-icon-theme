@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="x-office-spreadsheet-template.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="8.28125"
+     inkscape:cx="-3.8037736"
+     inkscape:cy="35.562264"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.6;fill:#225500;fill-opacity:1;stroke-width:4;stroke-linejoin:round"
+     id="rect234"
+     width="36"
+     height="44"
+     x="6"
+     y="2"
+     ry="1" />
+  <rect
+     style="fill:#77c143;fill-opacity:1;stroke-width:3.0389;stroke-linejoin:round"
+     id="rect2307"
+     width="34"
+     height="42"
+     x="7"
+     y="3" />
+  <path
+     id="rect287"
+     style="fill:#ffffff;stroke-width:4.32348;stroke-linecap:round;stroke-linejoin:round"
+     d="M 11,16 V 36 H 37 V 16 Z m 2,2 h 22 v 4 H 13 Z m 0,6 h 6 v 4 h -6 z m 8,0 h 6 v 4 h -6 z m 8,0 h 6 v 4 h -6 z m -16,6 h 6 v 4 h -6 z m 8,0 h 6 v 4 h -6 z m 8,0 h 6 v 4 h -6 z" />
+  <path
+     id="path27198"
+     style="color:#000000;opacity:0.8;fill:#e9e9e9;fill-rule:evenodd;-inkscape-stroke:none"
+     d="M 41,26.707031 22.707031,45 H 41 Z m -3,6.919922 V 42 h -7.166016 -1.207031 z" />
+  <path
+     style="color:#000000;opacity:0.8;fill:#83899a;fill-rule:evenodd;-inkscape-stroke:none"
+     d="M 42,24.292969 20.292969,46 H 21.5 42 Z m -1,2.414062 V 45 H 22.707031 Z M 38,33.626953 29.626953,42 H 30.833984 38 Z m -1,2.414063 V 41 h -4.958984 z"
+     id="path27200" />
+</svg>

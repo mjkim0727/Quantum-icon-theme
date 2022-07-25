@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="application-vnd.ms-word.template.macroenabled.12.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="11.637799"
+     inkscape:cx="3.9956009"
+     inkscape:cy="16.626855"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-linejoin:round"
+     id="rect234"
+     width="18"
+     height="22"
+     x="2"
+     y="0"
+     ry="0.5" />
+  <rect
+     style="fill:#fafafa;fill-opacity:1;stroke-width:2.31345;stroke-linejoin:round"
+     id="rect2307"
+     width="16"
+     height="20"
+     x="3"
+     y="1" />
+  <rect
+     style="opacity:0.25;fill:#005a9e;fill-opacity:1;stroke-width:1.99999;stroke-linejoin:bevel"
+     id="rect25302"
+     width="10"
+     height="12"
+     x="9.000001"
+     y="5"
+     ry="0.99999952" />
+  <path
+     id="rect29937"
+     style="opacity:0.5;fill:#005a9e;fill-opacity:1;stroke-width:2.92769;stroke-linejoin:bevel"
+     d="m 9,11 v 3 h 10 v -3 z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="path29903"
+     style="opacity:0.7;fill:#005a9e;fill-opacity:1;stroke-width:1.99999;stroke-linejoin:bevel"
+     d="m 8.999999,14 v 2.000001 c 0,0.553995 0.446,0.999995 1,0.999995 h 8.000002 C 18.554,16.999996 19,16.553996 19,16.000001 V 14 Z"
+     sodipodi:nodetypes="csccscc" />
+  <path
+     id="rect28337"
+     style="opacity:0.3;fill:#005a9e;fill-opacity:1;stroke-width:2.92769;stroke-linejoin:bevel"
+     d="M 9,7.9999996 V 11 H 19 V 7.9999996 Z"
+     sodipodi:nodetypes="ccccc" />
+  <rect
+     style="fill:#fafafa;fill-opacity:1;stroke-width:0.999999"
+     id="rect3242"
+     width="9"
+     height="9"
+     x="2.9999986"
+     y="6.9999037"
+     ry="1.9999999" />
+  <rect
+     style="fill:#005a9e;fill-opacity:1;stroke-width:0.499997"
+     id="rect2687"
+     width="7"
+     height="7"
+     x="3.9999986"
+     y="7.9999065"
+     ry="0.99999964" />
+  <path
+     id="rect1177"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+     d="m 4.9999985,9.000001 v 5 h 1.0000003 a 1.9999999,1.9999999 0 0 0 1.1992187,-0.400391 1.0000005,0.99999973 0 0 0 0.800781,0.400391 1.9999999,1.9999999 0 0 0 2.0000005,-2 v -3 h -1 v 3 a 0.99999996,0.99999996 0 0 1 -1.0000005,1 v -0.9375 a 1.9999999,1.9999999 0 0 0 0,-0.0625 V 9.000002 H 6.9999986 v 3.000001 a 0.99999996,0.99999996 0 0 1 -0.9999998,0.999998 v -4 z" />
+  <rect
+     style="fill:#3f51b5;fill-opacity:1;stroke-width:0.999999"
+     id="rect1954"
+     width="8.8817837e-16"
+     height="0.019506952"
+     x="6.9999986"
+     y="10.911563" />
+  <path
+     id="path1442"
+     style="color:#000000;opacity:0.8;fill:#e9e9e9;fill-rule:evenodd;stroke-width:1px;-inkscape-stroke:none"
+     d="M 19,12.167969 9.7480475,21 H 19 Z m -1,2.46875 V 20 h -5.654296 z" />
+  <path
+     style="color:#000000;opacity:0.8;fill:#83899a;fill-rule:evenodd;-inkscape-stroke:none"
+     d="M 20,9.8300778 19.154297,10.638672 7.2519536,22 H 20 Z M 19,12.167969 V 21 H 9.7480475 Z M 18,14.636719 17.156251,15.4375 12.345704,20 H 18 Z m -0.999999,2.326172 V 19 h -2.148437 z"
+     id="path1444"
+     sodipodi:nodetypes="cccccccccccccccccc" />
+</svg>

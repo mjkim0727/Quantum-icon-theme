@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="application-x-gameboy-rom.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="16.5625"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
+     id="rect234"
+     width="36"
+     height="44"
+     x="6"
+     y="2"
+     ry="1" />
+  <rect
+     style="fill:#666666;fill-opacity:1;stroke-width:2.31345;stroke-linejoin:round"
+     id="rect2307"
+     width="34"
+     height="42"
+     x="7"
+     y="3" />
+  <path
+     id="path411"
+     style="fill:#ffffff;stroke-width:3.436"
+     d="M 15 11 L 15 37 L 29 37 L 33 33 L 33 11 L 15 11 z M 18 14 L 30 14 L 30 24 L 18 24 L 18 14 z M 19 26 L 21 26 L 21 28 L 23 28 L 23 30 L 21 30 L 21 32 L 19 32 L 19 30 L 17 30 L 17 28 L 18 28 L 19 28 L 19 27 L 19 26 z M 29.5 26 A 1.5 1.5 0 0 1 31 27.5 A 1.5 1.5 0 0 1 29.5 29 A 1.5 1.5 0 0 1 28 27.5 A 1.5 1.5 0 0 1 29.5 26 z M 26.5 29 A 1.5 1.5 0 0 1 28 30.5 A 1.5 1.5 0 0 1 26.5 32 A 1.5 1.5 0 0 1 25 30.5 A 1.5 1.5 0 0 1 26.5 29 z " />
+</svg>

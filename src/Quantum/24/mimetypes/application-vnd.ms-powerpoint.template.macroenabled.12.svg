@@ -1,1 +1,96 @@
-application-mspowerpoint.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="application-vnd.ms-powerpoint.template.macroenabled.12.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="6.4282434"
+     inkscape:cx="-24.03456"
+     inkscape:cy="25.123504"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-linejoin:round"
+     id="rect234"
+     width="18"
+     height="22"
+     x="3"
+     y="1"
+     ry="0.5" />
+  <rect
+     style="fill:#fafafa;fill-opacity:1;stroke-width:2.31345;stroke-linejoin:round"
+     id="rect2307"
+     width="16"
+     height="20"
+     x="4"
+     y="2" />
+  <circle
+     style="opacity:0.3;fill:#d04423;fill-opacity:1;stroke-width:3.99999;stroke-linejoin:bevel"
+     id="path31463"
+     cx="14.000002"
+     cy="12"
+     r="5.9999976" />
+  <path
+     id="path31465"
+     style="opacity:0.7;fill:#d04423;fill-opacity:1;stroke-width:2.99999;stroke-linejoin:bevel"
+     d="M 8.0000007,12.000001 A 5.9999982,5.9999982 0 0 0 13.999999,18 5.9999982,5.9999982 0 0 0 19.999998,12.000001 h -5.999999 z" />
+  <path
+     id="path31759"
+     style="opacity:0.5;fill:#d04423;fill-opacity:1;stroke-width:2.99999;stroke-linejoin:bevel"
+     d="M 13.999999,6.0000028 A 5.9999978,5.9999982 0 0 0 8.0000007,12.000001 h 5.9999983 z" />
+  <rect
+     style="fill:#fafafa;fill-opacity:1;stroke-width:0.999999"
+     id="rect3242"
+     width="9"
+     height="9"
+     x="4.000001"
+     y="7.9999061"
+     ry="1.9999999" />
+  <rect
+     style="fill:#d04423;fill-opacity:1;stroke-width:0.499997"
+     id="rect2687"
+     width="7"
+     height="7"
+     x="5.0000005"
+     y="8.9999084"
+     ry="0.99999964" />
+  <path
+     id="rect6695"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+     d="m 7.0000009,10.000003 v 5 h 0.9999998 v -2 h 0.5000002 a 1.5,1.5 0 0 0 1.5000001,-1.5 1.5,1.5 0 0 0 -1.5000001,-1.5 H 8.0000007 Z m 0.9999998,1 h 0.5000002 a 0.49999998,0.49999998 0 0 1 0.5000001,0.5 0.49999998,0.49999998 0 0 1 -0.5000001,0.5 H 8.0000007 Z" />
+  <path
+     id="path1442"
+     style="color:#000000;opacity:0.8;fill:#e9e9e9;fill-rule:evenodd;stroke-width:1px;-inkscape-stroke:none"
+     d="M 20,13.167969 10.748047,22 H 20 Z m -1,2.46875 V 21 h -5.654297 z" />
+  <path
+     style="color:#000000;opacity:0.8;fill:#83899a;fill-rule:evenodd;-inkscape-stroke:none"
+     d="M 21,10.830078 20.154297,11.638672 8.2519527,23 H 21 Z m -1,2.337891 V 22 H 10.748047 Z M 19,15.636719 18.15625,16.4375 13.345703,21 H 19 Z m -1,2.326172 V 20 h -2.148437 z"
+     id="path1444"
+     sodipodi:nodetypes="cccccccccccccccccc" />
+</svg>

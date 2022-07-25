@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48.000002"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="preferences-security.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="17.104167"
+     inkscape:cx="23.970767"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2543"
+       id="linearGradient6478"
+       x1="37.5"
+       y1="44.5"
+       x2="9.5"
+       y2="2.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.5,0.5)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2543">
+      <stop
+         style="stop-color:#5984da;stop-opacity:1;"
+         offset="0"
+         id="stop2539" />
+      <stop
+         style="stop-color:#c989ed;stop-opacity:1;"
+         offset="1"
+         id="stop2541" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:url(#linearGradient6478);fill-opacity:1.0;stroke:none"
+     id="rect184"
+     width="41"
+     height="41"
+     x="3.5"
+     y="3.5"
+     ry="6.5" />
+  <path
+     id="path4328"
+     style="opacity:0.2;fill:#000000;stroke-width:2.33334;stroke-linecap:round;stroke-linejoin:round"
+     d="M 24 9 C 24 9 16.666741 13 12 13 L 12 27 C 12 33.999972 20.046668 39.833339 24 41 C 28.208041 39.833339 36 33.999972 36 27 L 36 13 C 31.333259 13 24 9 24 9 z M 24 17 C 26.215992 17 28 18.784008 28 21 L 28 23 L 29 23 A 1 1 0 0 1 30 24 L 30 30 A 1 1 0 0 1 29 31 L 19 31 A 1 1 0 0 1 18 30 L 18 24 A 1 1 0 0 1 19 23 L 20 23 L 20 21 C 20 18.784008 21.784009 17 24 17 z M 24 19 A 2 2 0 0 0 22 21 L 22 23 L 26 23 L 26 21 A 2 2 0 0 0 24 19 z " />
+  <path
+     id="rect3473"
+     style="fill:#ffffff;stroke-width:2.33334;stroke-linecap:round;stroke-linejoin:round"
+     d="M 24 8 C 24 8 16.666738 12 12 12 L 12 26 C 12 32.999973 20.04667 38.833339 24 40 C 28.20804 38.833339 36 32.999973 36 26 L 36 12 C 31.333259 12 24 8.0000001 24 8 z M 24 16 C 26.215992 16 28 17.78401 28 20 L 28 22 L 29 22 A 1 1 0 0 1 30 23 L 30 29 A 1 1 0 0 1 29 30 L 19 30 A 1 1 0 0 1 18 29 L 18 23 A 1 1 0 0 1 19 22 L 20 22 L 20 20 C 20 17.78401 21.784009 16 24 16 z M 24 18 A 2 2 0 0 0 22 20 L 22 22 L 26 22 L 26 20 A 2 2 0 0 0 24 18 z " />
+  <path
+     id="rect2630"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.3"
+     d="M 10,4 C 6.6760035,4 4.0000002,6.6760033 4.0000002,10 v 1 C 4.0000002,7.6760032 6.6760035,5 10,5 h 28 c 3.323997,0 6,2.6760032 6,6 V 10 C 44,6.6760033 41.323997,4 38,4 Z" />
+  <path
+     id="rect398"
+     style="opacity:0.3;fill:#ffffff"
+     d="m 4.0000001,37 v 1 c 0,3.323996 2.6760033,6 5.9999999,6 h 28 c 3.323997,0 6,-2.676004 6,-6 v -1 c 0,3.323996 -2.676003,6 -6,6 H 10 C 6.6760034,43 4.0000001,40.323996 4.0000001,37 Z" />
+  <path
+     id="rect899"
+     style="opacity:0.5;fill:#000000;stroke:none"
+     d="M 10,3 C 6.1220039,3 3,6.1220039 3,10 v 28 c 0,3.877996 3.1220039,7 7,7 h 28 c 3.877996,0 7,-3.122004 7,-7 V 10 C 45,6.1220039 41.877996,3 38,3 Z m 0,1 h 28 c 3.323997,0 6,2.6760033 6,6 v 28 c 0,3.323997 -2.676003,6 -6,6 H 10 C 6.6760033,44 4,41.323997 4,38 V 10 C 4,6.6760033 6.6760033,4 10,4 Z" />
+</svg>
