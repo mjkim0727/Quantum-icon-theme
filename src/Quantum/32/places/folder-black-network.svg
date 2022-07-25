@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="folder-blue-network.svg"
+   sodipodi:docname="folder-black-network.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -40,11 +40,11 @@
        inkscape:collect="always"
        id="linearGradient3155">
       <stop
-         style="stop-color:#2c89b7;stop-opacity:1;"
+         style="stop-color:#424242;stop-opacity:1;"
          offset="0"
          id="stop3151" />
       <stop
-         style="stop-color:#2077a5;stop-opacity:1;"
+         style="stop-color:#2f2f2f;stop-opacity:1;"
          offset="1"
          id="stop3153" />
     </linearGradient>
@@ -52,11 +52,11 @@
        inkscape:collect="always"
        id="linearGradient3147">
       <stop
-         style="stop-color:#36aded;stop-opacity:1;"
+         style="stop-color:#414141;stop-opacity:1;"
          offset="0"
          id="stop3143" />
       <stop
-         style="stop-color:#30c7f3;stop-opacity:1;"
+         style="stop-color:#6a6a6a;stop-opacity:1;"
          offset="1"
          id="stop3145" />
     </linearGradient>
