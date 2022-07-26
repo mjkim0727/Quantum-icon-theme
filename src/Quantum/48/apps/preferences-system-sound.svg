@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="16.5625"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:zoom="8.28125"
+     inkscape:cx="22.4"
+     inkscape:cy="34.958491"
      inkscape:window-width="1920"
      inkscape:window-height="1007"
      inkscape:window-x="0"
@@ -45,16 +45,16 @@
        x2="9.5"
        y2="2.5"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0.5,0.5)" />
+       gradientTransform="translate(0.49999998,0.50000009)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient22024">
       <stop
-         style="stop-color:#dedede;stop-opacity:1;"
+         style="stop-color:#cdcdcd;stop-opacity:1;"
          offset="0"
          id="stop22020" />
       <stop
-         style="stop-color:#f5f5f5;stop-opacity:1;"
+         style="stop-color:#eff0f1;stop-opacity:1;"
          offset="1"
          id="stop22022" />
     </linearGradient>
