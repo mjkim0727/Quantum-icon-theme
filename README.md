@@ -12,6 +12,7 @@ Linux icon theme
 * Pixel Perfect Icons (16px/24px/32px/48px/64px/128px/256px)
 * Pop!_OS COSMIC Support
 * Elegant Folder Icons
+* Weather icons for GNOME and KDE
 
 # Install(Not recommended now)
 
