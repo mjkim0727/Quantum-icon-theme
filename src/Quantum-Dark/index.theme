@@ -2,7 +2,7 @@
 Name=Quantum (Dark)
 Name[ko]=Quantum (다크 모드)
 Comment=Quantum icon theme
-Inherits=breeze,hicolor
+Inherits=breeze-dark,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,22,24,32,48,64,128,256
