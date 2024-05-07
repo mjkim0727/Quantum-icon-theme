@@ -5,7 +5,6 @@ Linux icon theme
 * Papirus (some assets)
 * Fluent by vinceliuice
 * Moka by snwh (Design)
-* breeze-extended-alt (Trash Can Design)
 
 # Features
 
@@ -31,3 +30,7 @@ Go to Template folder.
 * ![gnome_icon](src/Quantum/16/apps/desktop-environment-gnome.svg) GNOME
 
 ![gnome_screenshot](images/gnome_screenshot.png)
+
+* ![xfce_icon](src/Quantum/16/apps/desktop-environment-xfce.svg) Xfce
+
+![gnome_screenshot](images/xfce_screenshot.png)
