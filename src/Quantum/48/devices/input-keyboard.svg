@@ -26,10 +26,10 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="16.5625"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:cx="18.354717"
+     inkscape:cy="24.030189"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1004"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -75,11 +75,6 @@
      x="2"
      y="8"
      ry="2" />
-  <path
-     id="rect1035"
-     style="opacity:0.2;fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M 4,8 C 2.8920021,8 2,8.8920023 2,10 v 1 C 2,9.8920023 2.8920021,9 4,9 h 39 c 1.107997,0 2,0.8920023 2,2 V 10 C 45,8.8920023 44.107997,8 43,8 Z"
-     sodipodi:nodetypes="sscsscsss" />
   <path
      id="rect555"
      style="opacity:1;fill:#b3b3b3;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
